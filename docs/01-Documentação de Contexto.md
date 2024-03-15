@@ -50,24 +50,51 @@ Como a aplicação de IA pode contribuir para a prevenção e o controle da deng
 
 ## Objetivos
 
-O objetivo geral deste projeto é desenvolver uma aplicação de IA que possa facilitar a disseminação de informações sobre a dengue para a população. Os objetivos específicos incluem:
+Objetivo Geral O objetivo geral desta pesquisa é desenvolver uma aplicação de Inteligência Artificial (IA) que possa facilitar a disseminação de informações precisas e oportunas sobre a dengue para a população, contribuindo assim para a prevenção e controle da doença.
 
-1.Desenvolver um algoritmo de IA que possa coletar e analisar dados sobre a dengue de várias fontes.
-2.Criar uma interface de usuário amigável que possa fornecer informações sobre a dengue de uma maneira acessível e compreensível.
+Objetivos Específicos
+
+1.Coletar dados sobre a dengue: Desenvolver um algoritmo de IA capaz de coletar dados sobre a dengue de várias fontes confiáveis, incluindo relatórios de saúde pública, literatura científica e mídia social.
+
+2.Analisar dados sobre a dengue: Utilizar técnicas de IA para analisar os dados coletados, identificando padrões, tendências e correlações que possam contribuir para a compreensão da doença e suas dinâmicas.
+
+3.Desenvolver uma interface de usuário amigável: Criar uma interface de usuário intuitiva e fácil de usar que possa apresentar as informações sobre a dengue de uma maneira acessível e compreensível para a população em geral.
+
+4.Testar a eficácia da aplicação: Realizar testes para avaliar a eficácia da aplicação em termos de sua capacidade de disseminar informações sobre a dengue e de sua usabilidade para diferentes segmentos da população.
 
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-A dengue é uma doença que afeta milhões de pessoas a cada ano e representa um significativo ônus para a saúde pública. A IA tem o potencial de melhorar a maneira como as informações sobre a dengue são coletadas e disseminadas, o que pode contribuir para esforços de prevenção e controle. Além disso, este projeto pode servir como um modelo para o uso da IA em outras áreas da saúde pública.
+A dengue é uma doença complexa que é influenciada por uma variedade de fatores, incluindo condições ambientais, práticas humanas e características do mosquito vetor. Isso torna a prevenção e o controle da dengue um desafio significativo (por que). Além disso, a falta de acesso a informações precisas e oportunas sobre a dengue pode contribuir para a propagação da doença.
+
+Nesse contexto, este projeto busca abordar esses desafios através do desenvolvimento de uma aplicação de Inteligência Artificial (IA) (o que). A aplicação será projetada para facilitar a disseminação de informações sobre a dengue para a população em geral, contribuindo para a prevenção e controle da doença.
+
+A base para a sustentação e validação das ideias propostas será a coleta e análise de dados relevantes sobre a dengue, bem como a aplicação de técnicas avançadas de IA para o desenvolvimento do algoritmo e da interface do usuário. Portanto, acredita-se que este projeto terá um impacto significativo na luta contra a dengue.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-O público-alvo desta aplicação são indivíduos que vivem em áreas onde a dengue é endêmica. Isso inclui tanto residentes locais quanto viajantes para essas áreas. A aplicação também pode ser útil para profissionais de saúde pública e pesquisadores que estão envolvidos na prevenção e controle da dengue.
+O público-alvo para uma aplicação de IA que busca abordar os desafios da prevenção e controle da dengue pode ser segmentado da seguinte maneira:
+
+Geográfica: O foco seria em áreas onde a dengue é prevalente, que geralmente são regiões tropicais e subtropicais. Isso inclui, mas não se limita a, países na América Latina, Sudeste Asiático e África.
+
+Demográfica: A aplicação seria útil para uma ampla faixa etária, desde jovens a adultos, de ambos os sexos, que vivem em áreas propensas à dengue. Além disso, profissionais de saúde que trabalham nessas áreas também seriam um público-alvo importante.
+
+Psicográfica: O público-alvo incluiria indivíduos que estão conscientes dos problemas de saúde e estão dispostos a usar a tecnologia para obter informações e orientações. Eles valorizam a prevenção de doenças e estão dispostos a mudar seu comportamento com base em conselhos confiáveis.
+
+Comportamental: O público-alvo pode incluir pessoas que já procuraram informações sobre a dengue ou outras doenças transmitidas por mosquitos. Eles podem ser ativos na busca de informações de saúde online e dispostos a usar aplicativos de saúde.
+
+B2C Para o B2C, o público-alvo seria:
+
+Pessoas que vivem em áreas propensas à dengue, de todas as idades e sexos, que estão conscientes dos problemas de saúde e dispostas a usar a tecnologia para obter informações e orientações. Eles valorizam a prevenção de doenças e estão dispostos a mudar seu comportamento com base em conselhos confiáveis.
+
+B2B Para o B2B, o público-alvo seria:
+
+Organizações de saúde e governamentais que operam em áreas propensas à dengue e que estão procurando maneiras de educar o público sobre a prevenção e controle da dengue. Isso pode incluir hospitais, clínicas, departamentos de saúde pública e escolas.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
