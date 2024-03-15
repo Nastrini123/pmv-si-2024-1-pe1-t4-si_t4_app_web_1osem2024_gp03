@@ -1,13 +1,47 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Este projeto busca explorar o uso da inteligência artificial (IA) como uma ferramenta para facilitar a disseminação de informações sobre a dengue para a população. A dengue é uma doença transmitida por mosquitos que representa um problema de saúde pública significativo em muitas partes do mundo, incluindo o Brasil. A IA tem o potencial de melhorar a maneira como as informações sobre a dengue são coletadas, analisadas e disseminadas, contribuindo para esforços de prevenção e controle.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+'Objetivos, Problema de pesquisa e Justificativa'
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Justificativa: A necessidade deste estudo surge da complexidade da dengue, uma doença influenciada por uma variedade de fatores, incluindo condições ambientais, práticas humanas e características do mosquito vetor. A prevenção e o controle da dengue são desafios significativos, e a falta de acesso a informações precisas e oportunas sobre a dengue pode contribuir para a propagação da doença.
+
+Problema: O projeto busca resolver o desafio de prevenir e controlar a dengue, bem como melhorar o acesso a informações precisas e oportunas sobre a doença.
+
+Objetivos: O projeto pretende desenvolver uma aplicação de IA que possa abordar os desafios identificados. A aplicação de IA buscará fornecer informações precisas e oportunas sobre a dengue, ajudar na prevenção e controle da doença, e potencialmente contribuir para a redução da propagação da dengue.
+
+'Matriz Certezas, Suposições e Dúvidas'
+Certezas:
+
+A dengue é uma doença complexa influenciada por várias condições, incluindo ambientais, práticas humanas e características do mosquito vetor.
+A prevenção e o controle da dengue são desafiadores.
+A falta de acesso a informações precisas e oportunas sobre a dengue pode contribuir para a propagação da doença.
+Suposições:
+
+Uma aplicação de IA pode ajudar a combater a dengue.
+A aplicação de IA pode fornecer informações precisas e oportunas sobre a dengue.
+
+Dúvidas:
+
+Quais são as características específicas que a aplicação de IA deve ter para ser eficaz?
+Como a aplicação de IA pode obter e fornecer informações precisas e oportunas sobre a dengue?
+Como a aplicação de IA pode contribuir para a prevenção e o controle da dengue?
+
+'Brainstorming'
+
+1.Foco na quantidade: Quais são todas as possíveis funcionalidades que nossa aplicação de IA poderia ter para combater a dengue?
+
+2.Evitar a crítica: Quais são algumas abordagens não convencionais que podemos considerar para a prevenção e controle da dengue através de nossa aplicação de IA?
+
+3.Apreciar ideias fora do comum: Como podemos usar a IA de maneiras inovadoras para fornecer informações precisas e oportunas sobre a dengue?
+
+4.Combinar e melhorar ideias: Como podemos combinar diferentes ideias para criar uma solução mais eficaz para o problema da dengue?
+
+5.Colocar as ideias em ação: Quais são os próximos passos para transformar nossas ideias em realidade?
+
+6.Evolução dos resultados: Como podemos acompanhar e medir o sucesso de nossa aplicação de IA no combate à dengue?
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -16,28 +50,24 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste projeto é desenvolver uma aplicação de IA que possa facilitar a disseminação de informações sobre a dengue para a população. Os objetivos específicos incluem:
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
+1.Desenvolver um algoritmo de IA que possa coletar e analisar dados sobre a dengue de várias fontes.
+2.Criar uma interface de usuário amigável que possa fornecer informações sobre a dengue de uma maneira acessível e compreensível.
+
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+A dengue é uma doença que afeta milhões de pessoas a cada ano e representa um significativo ônus para a saúde pública. A IA tem o potencial de melhorar a maneira como as informações sobre a dengue são coletadas e disseminadas, o que pode contribuir para esforços de prevenção e controle. Além disso, este projeto pode servir como um modelo para o uso da IA em outras áreas da saúde pública.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+O público-alvo desta aplicação são indivíduos que vivem em áreas onde a dengue é endêmica. Isso inclui tanto residentes locais quanto viajantes para essas áreas. A aplicação também pode ser útil para profissionais de saúde pública e pesquisadores que estão envolvidos na prevenção e controle da dengue.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
