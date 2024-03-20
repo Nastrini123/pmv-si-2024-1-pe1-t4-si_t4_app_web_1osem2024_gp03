@@ -11,13 +11,15 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Integrantes
 
 *Anderson da Silva Souza 
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-
+*Carolina Aguiar Figueiredo Pereira
+*Celia Diniz Soares
+* Guilherme Cortez de Carvalho
+*Guilherme Lacerda de Souza
+*Lucas Gentil Lucena
+*Lucas Myrrha Gillis
+*Pedro Araujo Gonçalves de Faria
 ## Orientador
-
-* Nome completo do professor 1
+* Nesley Jesus Daher de Oliveira
 
 ## Instruções de utilização
 
