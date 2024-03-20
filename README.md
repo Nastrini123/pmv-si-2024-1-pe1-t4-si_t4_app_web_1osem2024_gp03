@@ -13,7 +13,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 *Anderson da Silva Souza 
 *Carolina Aguiar Figueiredo Pereira
 *Celia Diniz Soares
-* Guilherme Cortez de Carvalho
+*Guilherme Cortez de Carvalho
 *Guilherme Lacerda de Souza
 *Lucas Gentil Lucena
 *Lucas Myrrha Gillis
